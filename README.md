@@ -3,7 +3,8 @@
 
 Submitted by: **Tanzim Mahtab Khandaker**
 
-**CodePath-prework** is an app that... [TODO] 
+**CodePath-prework** is an app that can run application showing a screen with a button and at least a couple of labels
+The screen has a background color that changes when the button is tapped.
 
 Time spent: **6** hours spent in total
 
