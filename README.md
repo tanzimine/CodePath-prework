@@ -1,10 +1,8 @@
-
 # Prework - *CodePath-prework*
 
 Submitted by: **Tanzim Mahtab Khandaker**
 
-**CodePath-prework** is an app that can run application showing a screen with a button and at least a couple of labels
-The screen has a background color that changes when the button is tapped.
+**CodePath-prework** is an app that can run an application showing a screen with a button and at least a couple of labels. The screen has a background color that changes when the button is tapped.
 
 Time spent: **6** hours spent in total
 
@@ -12,16 +10,42 @@ Time spent: **6** hours spent in total
 
 The following **required** functionality is completed:
 
-- [ ] Users are see a screen with three labels and a button
+- [ ] Users can see a screen with three labels and a button
 - [ ] Tapping the button changes the screen color to a random color
  
 ## Video Walkthrough
 
 Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
 
-[Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
+[Guide](https://www.youtube.com/watch?v=GA92eKlYio4).
 
 ## App Brainstorming (Step 4)
+
+### Favorite Apps & Features:
+
+1. **Instagram**  
+   - Changing the background color of the messages screen  
+   - Deleting old messages  
+   - Adding filters to images  
+
+2. **Spotify**  
+   - Personalized playlists based on listening history  
+   - Easy playlist creation  
+   - High-quality audio streaming  
+
+3. **Twitter**  
+   - Real-time updates and notifications  
+   - Threading replies for better conversation flow  
+   - Bookmarking tweets  
+
+### App Idea:
+
+I would like to build an app that helps users track their daily habits, such as exercising, drinking water, or reading. The app would have features like:
+- A daily checklist where users can mark completed habits.
+- A progress tracker with visual graphs.
+- Reminders to motivate users to complete their tasks.
+
+This app could be a helpful tool for anyone looking to stay on top of their goals and build consistency in their daily routines.
 
 ## Notes
 
